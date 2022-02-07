@@ -17,13 +17,13 @@
   "isOk": "全システム良好",
 
   "operational": "稼働中",
-  "underMaintenance": "メンテナンス",
+  "underMaintenance": "メンテナンス中",
   "degradedPerformance": "パフォーマンス低下",
   "partialOutage": "一部障害",
   "minorOutage": "障害（軽妙）",
   "majorOutage": "障害（重大）",
 
-  "systemMetrics": "System metrics",
+  "systemMetrics": "システム測定基準",
 
   "incidents": "直近のインシデント",
   "incidentHistory": "インシデント履歴",
@@ -34,7 +34,7 @@
   "maintenanceDetails" : "メンテナンス詳細",
 
   "started": "開始日時",
-  "scheduledFor": "Scheduled for",
+  "scheduledFor": "見込み時間",
   "updated": "更新日時",
   "resolvedAfter": "解決に必要だった時間",
   "inUnderAMinute": "1分以内",
